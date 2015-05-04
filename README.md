@@ -5,7 +5,7 @@ which is a Javascript testing framework. The goal is to have all the test cases 
 
 ## Running the program
 
-Download or clone this repository and run 'index.html'.
+Download or clone this repository and run `index.html`.
 
 ## Tests Cases
 These test cases are all in `jasmine/spec/feedreader.js`.
