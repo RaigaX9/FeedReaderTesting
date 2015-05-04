@@ -29,7 +29,7 @@ $(function() {
         /* This will loop through each feed in the 'allFeeds' object as well as
          * determine whether or not the URL is valid or not.
          */
-        it('Valid define URLs', function() {
+        it('Valid defined URLs', function() {
             allFeeds.forEach(function(x) {
                 expect(x.url).toBeDefined();
                 expect(x.url.length).toBeGreaterThan(1);

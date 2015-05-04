@@ -13,7 +13,7 @@ These test cases are all in `jasmine/spec/feedreader.js`.
 - `RSS Feeds`
     - __'are defined'__
         - Tests to see if all the `allFeeds` variable is defined.
-    - __'Valid define URLs'__
+    - __'Valid defined URLs'__
         - Will check each feed whether the URLs are valid or not.
     - __'Valid defined names'__
         - Will check each feed whether the names are empty or not.
